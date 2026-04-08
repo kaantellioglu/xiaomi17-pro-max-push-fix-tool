@@ -42,3 +42,24 @@ Fix delayed or missing notifications on Xiaomi China ROM / HyperOS devices using
 
 
 ⭐ If this tool helped you, please give a star!
+
+---
+
+## ⚠️ Important Notes
+
+- Re-run after reboot
+- May increase battery usage
+- No system modification / no root required
+
+---
+
+## ⭐ Why This Tool?
+
+China ROM aggressively kills background apps.  
+This tool restores proper push notification behavior.
+
+---
+
+## 📄 License
+
+MIT
